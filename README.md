@@ -1,3 +1,9 @@
+![Docker](https://img.shields.io/badge/Docker-Compose-blue?logo=docker)
+![Vue](https://img.shields.io/badge/Vue-3-42b883?logo=vue.js&logoColor=white)
+![Node](https://img.shields.io/badge/Node-20-339933?logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-Backend-black?logo=express&logoColor=white)
+![Status](https://img.shields.io/badge/Healthcheck-Enabled-brightgreen)
+
 # Pokedex Docker
 
 A minimal full-stack application built to practice Docker and Docker Compose.
